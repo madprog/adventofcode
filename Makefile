@@ -11,7 +11,9 @@ EXECUTABLES=2020/day01/ex1 \
             2020/day05/ex1 \
             2020/day05/ex2 \
             2020/day06/ex1 \
-            2020/day06/ex2
+            2020/day06/ex2 \
+            2020/day07/ex1 \
+            2020/day07/ex2
 
 all: ${EXECUTABLES}
 
